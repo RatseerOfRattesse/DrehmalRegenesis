@@ -1,0 +1,41 @@
+{
+	"schemaVersion": 1,
+	"id": "drehmal_regenesis",
+	"version": "0.0.1",
+	"name": "Drehmal: Regenesis",
+	"description": "After Drehmal collapsed into the Nothing, parts of it containing powerful primal energies resisted decay and wound up in other realms. Now you are burdened with their remnant power. Will you use them wisely, or incur the Mythoclast's intervention again?",
+	"authors": [
+		"RatseerOfRattesse: Programmer, Artist, etc.",
+		"Keeko, Rift, and the rest of the Drehmal Team"
+	],
+	"contact": {
+		"homepage": "https://rentry.co/ratseerofrattesse",
+		"sources": "https://github.com/RatseerOfRattesse/DrehmalRegenesis"
+	},
+	"license": "MIT License",
+	"icon": "assets/drehmal_regenesis/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.ratseerofrattesse.drehmal_regenesis.DrehmalRegenesis"
+		],
+		"fabric-datagen": [
+			"net.ratseerofrattesse.drehmal_regenesis.DrehmalRegenesisDataGenerator"
+		],
+		"client": [
+			"net.ratseerofrattesse.drehmal_regenesis.DrehmalRegenesisClient"
+		]
+	},
+	"mixins": [
+		"drehmal_regenesis.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.14",
+		"minecraft": "~1.21",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
