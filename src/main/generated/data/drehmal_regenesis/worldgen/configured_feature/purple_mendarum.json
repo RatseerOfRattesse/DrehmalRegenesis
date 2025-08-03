@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:mendarum_spike",
+  "config": {
+    "core_provider": {
+      "type": "minecraft:simple_state_provider",
+      "state": {
+        "Name": "drehmal_regenesis:purple_mendarum_block"
+      }
+    },
+    "minimum_size": {
+      "type": "minecraft:two_layers_feature_size",
+      "limit": 1,
+      "lower_size": 0,
+      "upper_size": 2
+    },
+    "shell_provider": {
+      "type": "minecraft:simple_state_provider",
+      "state": {
+        "Name": "drehmal_regenesis:purple_mendarum_shell"
+      }
+    }
+  }
+}

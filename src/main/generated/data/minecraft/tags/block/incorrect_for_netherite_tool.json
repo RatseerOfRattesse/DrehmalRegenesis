@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "#drehmal_regenesis:needs_rehntite_tool",
+      "required": false
+    },
+    {
+      "id": "#drehmal_regenesis:needs_mendarum_tool",
+      "required": false
+    }
+  ]
+}

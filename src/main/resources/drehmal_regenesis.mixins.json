@@ -3,7 +3,12 @@
 	"package": "net.ratseerofrattesse.drehmal_regenesis.mixin",
 	"compatibilityLevel": "JAVA_21",
 	"mixins": [
-		"ExampleMixin"
+		"ExampleMixin",
+		"ItemMixin",
+		"ModdedRarityMixin",
+		"TooltipMixin",
+		"VanillaBiomeParametersMixin",
+		"VanillaSurfaceRulesMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1

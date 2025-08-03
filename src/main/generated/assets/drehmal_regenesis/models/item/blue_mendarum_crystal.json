@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "drehmal_regenesis:item/blue_mendarum_crystal"
+  }
+}

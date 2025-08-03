@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.2,
+  "ingredient": [
+    {
+      "item": "drehmal_regenesis:rehntite_pickaxe"
+    },
+    {
+      "item": "drehmal_regenesis:rehntite_shovel"
+    },
+    {
+      "item": "drehmal_regenesis:rehntite_axe"
+    },
+    {
+      "item": "drehmal_regenesis:rehntite_hoe"
+    },
+    {
+      "item": "drehmal_regenesis:rehntite_sword"
+    }
+  ],
+  "result": {
+    "id": "drehmal_regenesis:rehntite_nugget"
+  }
+}

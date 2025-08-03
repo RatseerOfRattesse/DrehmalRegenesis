@@ -1,0 +1,76 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_rehntite_axe": {
+      "conditions": {
+        "items": [
+          {
+            "items": "drehmal_regenesis:rehntite_axe"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_rehntite_hoe": {
+      "conditions": {
+        "items": [
+          {
+            "items": "drehmal_regenesis:rehntite_hoe"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_rehntite_pickaxe": {
+      "conditions": {
+        "items": [
+          {
+            "items": "drehmal_regenesis:rehntite_pickaxe"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_rehntite_shovel": {
+      "conditions": {
+        "items": [
+          {
+            "items": "drehmal_regenesis:rehntite_shovel"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_rehntite_sword": {
+      "conditions": {
+        "items": [
+          {
+            "items": "drehmal_regenesis:rehntite_sword"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:rehntite_nugget_from_smelting"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_rehntite_pickaxe",
+      "has_rehntite_shovel",
+      "has_rehntite_axe",
+      "has_rehntite_hoe",
+      "has_rehntite_sword"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:rehntite_nugget_from_smelting"
+    ]
+  }
+}

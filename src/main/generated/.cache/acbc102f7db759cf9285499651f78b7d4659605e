@@ -1,0 +1,8 @@
+// 1.21	2025-07-12T14:55:36.326514	Drehmal: Regenesis/Tags for minecraft:block
+acd2bbd5d0c84d9f751a8cf953b1c2a1240d7f4c data\drehmal_regenesis\tags\block\needs_rehntite_tool.json
+82bf18c960a415ffb69266cc0e09194570490470 data\drehmal_regenesis\tags\block\incorrect_for_rehntite_tool.json
+b3c9b72ca26646a0239d1cb9bf4477eb38507b13 data\minecraft\tags\block\incorrect_for_netherite_tool.json
+38822384200cc7bfadf8301055d7298df63002c3 data\drehmal_regenesis\tags\block\needs_mendarum_tool.json
+53c0f5a82498d1d9c52eade7314620f599fb3b86 data\minecraft\tags\block\impermeable.json
+640060d42612e4aeae73b97e8c30b4c31c4beebf data\drehmal_regenesis\tags\block\needs_netherite_tool.json
+5e237a9e224307d77f242675afe2b09c22169096 data\minecraft\tags\block\mineable\pickaxe.json

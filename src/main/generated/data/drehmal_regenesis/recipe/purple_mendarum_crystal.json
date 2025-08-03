@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "drehmal_regenesis:purple_mendarum_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "drehmal_regenesis:purple_mendarum_crystal"
+  }
+}

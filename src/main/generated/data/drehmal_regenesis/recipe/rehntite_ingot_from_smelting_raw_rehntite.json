@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 2.0,
+  "group": "pink_garnet",
+  "ingredient": {
+    "item": "drehmal_regenesis:raw_rehntite"
+  },
+  "result": {
+    "id": "drehmal_regenesis:rehntite_ingot"
+  }
+}

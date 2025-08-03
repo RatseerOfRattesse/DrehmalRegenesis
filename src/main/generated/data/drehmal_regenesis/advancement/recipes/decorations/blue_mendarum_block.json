@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_blue_mendarum_crystal": {
+      "conditions": {
+        "items": [
+          {
+            "items": "drehmal_regenesis:blue_mendarum_crystal"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:blue_mendarum_block"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_blue_mendarum_crystal"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:blue_mendarum_block"
+    ]
+  }
+}

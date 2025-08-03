@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "drehmal_regenesis:block/purple_mendarum_block"
+  }
+}

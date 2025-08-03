@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "drehmal_regenesis:raw_rehntite_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "drehmal_regenesis:raw_rehntite"
+  }
+}

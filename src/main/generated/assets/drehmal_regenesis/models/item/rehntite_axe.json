@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "drehmal_regenesis:item/rehntite_axe"
+  }
+}

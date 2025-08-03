@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "drehmal_regenesis:block/raw_rehntite_block"
+  }
+}

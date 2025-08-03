@@ -1,0 +1,10 @@
+{
+  "values": [
+    "drehmal_regenesis:raw_rehntite_block",
+    "drehmal_regenesis:rehntite_block",
+    {
+      "id": "#drehmal_regenesis:needs_rehntite_tool",
+      "required": false
+    }
+  ]
+}
